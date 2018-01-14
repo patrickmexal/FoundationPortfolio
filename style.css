@@ -1,0 +1,13 @@
+
+#grabber {
+  color: white;
+  background-image: url("assets/_DSC7653.jpg");
+  background-size: 1100px, 300px;
+}
+
+#jumbo {
+	font-size: 40px;
+	font-family: "Julius Sans One", sans-serif;
+	font-weight: bolder;
+	text-shadow: 5px 5px 5px #000
+}
