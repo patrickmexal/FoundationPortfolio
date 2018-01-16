@@ -11,7 +11,7 @@
 #grabber {
   color: white;
   background-image: url("assets/_DSC7653.jpg");
-  background-size: 1100px, 300px; 
+  background-size: 1100px, 1200px; 
 }
 
 #jumbo {
@@ -51,4 +51,7 @@ img.thumbnail {
 	border-radius: 5px;
 	height: 210px;
 	width: 210px;
+}
+div#body {
+	background-image: url("assets/_DSC7653.jpg");
 }
