@@ -8,6 +8,10 @@
   -webkit-filter: grayscale(0%);
 }
 
+h5 {
+	font-family: 'Marcellus SC', serif;
+	font-weight: bold;
+}
 #grabber {
   color: white;
   background-image: url("assets/_DSC7653.jpg");
@@ -38,7 +42,9 @@
 #languages {
 	min-height: 75px;
 }
-
+#projectwrapper {
+	margin-top: 20px;
+}
 #thecontactblurb {
 	font-family: "Mr Bedfort", cursive;
 	font-size: 20px;
@@ -54,5 +60,8 @@ img.thumbnail {
 	width: 210px;
 }
 #rebel {
-	padding-bottom: 20px;
+	padding-bottom: 25px;
+}
+#footer {
+	margin-bottom: 20px;
 }
