@@ -1,13 +1,49 @@
+* {
+	filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(100%); /* Chrome 19+ & Safari 6+ */
+  cursor: pointer;
+}
+*:hover {
+	filter: none;
+  -webkit-filter: grayscale(0%);
+}
 
 #grabber {
   color: white;
   background-image: url("assets/_DSC7653.jpg");
-  background-size: 1100px, 300px;
+  background-size: 1100px, 300px; 
 }
 
 #jumbo {
+	color: white;
 	font-size: 40px;
 	font-family: "Julius Sans One", sans-serif;
 	font-weight: bolder;
 	text-shadow: 5px 5px 5px #000
+}
+
+.lyric {
+	font-family: "Julius Sans One", sans-serif;
+	font-weight: bolder;
+}
+
+#thisisme {
+	min-height: 40px;
+}
+
+#webdev {
+	min-height: 60px;
+}
+
+#languages {
+	min-height: 75px;
+}
+
+#thecontactblurb {
+	font-family: "Mr Bedfort", cursive;
+	font-size: 20px;
+}
+img.icon {
+	height: 50px;
+	width: 50px;
 }
