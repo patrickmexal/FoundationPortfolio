@@ -48,6 +48,7 @@ img.icon {
 	width: 50px;
 }
 img.thumbnail {
+	border-radius: 5px;
 	height: 210px;
 	width: 210px;
 }
