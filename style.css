@@ -59,6 +59,7 @@ img.thumbnail {
 	border-radius: 5px;
 	height: 210px;
 	width: 210px;
+	box-shadow: 1px 1px 1px 1px;
 }
 #rebel {
 	padding-bottom: 25px;
