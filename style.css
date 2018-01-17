@@ -67,3 +67,6 @@ img.thumbnail {
 #footer {
 	margin-bottom: 20px;
 }
+li:hover {
+	-webkit-transform: scale(1.3);
+}
