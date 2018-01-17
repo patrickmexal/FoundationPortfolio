@@ -39,34 +39,43 @@ h5 {
 #webdev {
 	min-height: 60px;
 }
-
+span#sidebar {
+	color: darkblue;
+}
 #languages {
 	min-height: 75px;
 }
+
 #projectwrapper {
 	margin-top: 20px;
 }
+
 #thecontactblurb {
 	font-family: "Mr Bedfort", cursive;
 	font-size: 20px;
 }
+
 img.icon {
 	height: 50px;
 	width: 50px;
 	margin: 5px;
 }
+
 img.thumbnail {
 	border-radius: 5px;
 	height: 210px;
 	width: 210px;
-	box-shadow: 1px 1px 1px 1px;
+	box-shadow: 1px 1px 1px 1px;	
 }
+
 #rebel {
 	padding-bottom: 25px;
 }
+
 #footer {
 	margin-bottom: 20px;
 }
+
 li:hover {
 	-webkit-transform: scale(1.3);
 }
