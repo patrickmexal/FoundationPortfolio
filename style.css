@@ -79,3 +79,7 @@ img.thumbnail {
 li:hover {
 	-webkit-transform: scale(1.3);
 }
+
+#contactBars {
+	margin-top: 50px;
+}
