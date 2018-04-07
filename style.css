@@ -1,13 +1,13 @@
-* {
-	filter: gray; /* IE6-9 */
-  -webkit-filter: grayscale(100%); /* Chrome 19+ & Safari 6+ */
+/** {
+	filter: gray; 
+  -webkit-filter: grayscale(100%); 
   cursor: pointer;
 }
 *:hover {
 	filter: none;
   -webkit-filter: grayscale(0%);
 }
-
+*/
 h5 {
 	font-family: 'Marcellus SC', serif;
 	font-weight: bold;
@@ -65,7 +65,7 @@ img.thumbnail {
 	border-radius: 5px;
 	height: 210px;
 	width: 210px;
-	box-shadow: 1px 1px 1px 1px;	
+	/*box-shadow: 1px 1px 1px 1px;*/	
 }
 
 #rebel {
